@@ -1,0 +1,6 @@
+google-cloud-aiplatform==1.25.0
+google-cloud-bigquery==3.11.0
+google-cloud-storage==2.9.0
+langchain==0.0.190
+SQLAlchemy==1.4.49
+sqlalchemy-bigquery==1.8.0
